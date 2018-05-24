@@ -9943,7 +9943,11 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+<<<<<<< HEAD
 module.exports = __webpack_require__(/*! C:\MEAN Stack\angular_project\a_tracker\SB-Admin-BS4-Angular-5\src\polyfills.ts */"./src/polyfills.ts");
+=======
+module.exports = __webpack_require__(/*! /Users/amyramsay/Desktop/Mean_Stack/Angular-Project-1/a_tracker/SB-Admin-BS4-Angular-5/src/polyfills.ts */"./src/polyfills.ts");
+>>>>>>> 440730816f10c8a1006854f0349c7ad1d4aa7aa1
 
 
 /***/ })
