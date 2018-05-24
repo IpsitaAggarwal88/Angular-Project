@@ -50,7 +50,7 @@ var AccessDeniedRoutingModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<p>\r\n  access-denied works!\r\n</p>\r\n"
+module.exports = "<p>\n  access-denied works!\n</p>\n"
 
 /***/ }),
 
