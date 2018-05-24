@@ -50,7 +50,7 @@ var ServerErrorRoutingModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<p>\r\n  server-error works!\r\n</p>\r\n"
+module.exports = "<p>\n  server-error works!\n</p>\n"
 
 /***/ }),
 

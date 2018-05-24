@@ -50,7 +50,7 @@ var NotFoundRoutingModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<p>\r\n  not-found works!\r\n</p>\r\n"
+module.exports = "<p>\n  not-found works!\n</p>\n"
 
 /***/ }),
 
