@@ -580,8 +580,8 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\angularPro\a_tracker\SB-Admin-BS4-Angular-5\node_modules\font-awesome\css\font-awesome.css */"./node_modules/font-awesome/css/font-awesome.css");
-module.exports = __webpack_require__(/*! C:\angularPro\a_tracker\SB-Admin-BS4-Angular-5\src\styles\app.scss */"./src/styles/app.scss");
+__webpack_require__(/*! C:\MEAN Stack\angular_project\a_tracker\SB-Admin-BS4-Angular-5\node_modules\font-awesome\css\font-awesome.css */"./node_modules/font-awesome/css/font-awesome.css");
+module.exports = __webpack_require__(/*! C:\MEAN Stack\angular_project\a_tracker\SB-Admin-BS4-Angular-5\src\styles\app.scss */"./src/styles/app.scss");
 
 
 /***/ })
